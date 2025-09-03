@@ -34,7 +34,7 @@ Rust Calculator REPL
 Type expressions, e.g.: 2 + 3 * (4 - 1) ^ 2
 Operators: + - * / ^ % (percent converts number to fraction, e.g. 50% -> 0.5)
 Commands: quit, exit, help, clear
-
+```
 > 2 + 3 * 4
 14
 > (5 - 2) ^ 3
@@ -43,6 +43,7 @@ Commands: quit, exit, help, clear
 3
 > 50%
 0.5
+```
 📂 Project Structure
 calculator_rs/
 ├── Cargo.toml       # Project configuration
