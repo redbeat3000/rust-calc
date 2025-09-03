@@ -44,7 +44,7 @@ Commands: quit, exit, help, clear
 > 50%
 0.5
 📂 Project Structure
-> calculator_rs/
+calculator_rs/
 ├── Cargo.toml       # Project configuration
 └── src/
     └── main.rs      # Calculator source code
